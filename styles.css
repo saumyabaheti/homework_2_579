@@ -1,0 +1,43 @@
+
+@keyframes animationone{
+    from {background-color: white;}
+    to {background-color: #e6ddc5;}
+  }
+
+
+body {
+
+    background-color: #e6ddc5;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #221c0e;
+    animation-name: animationone;
+    animation-duration: 4s;
+
+}
+
+h1 {
+
+    font-weight: bold;
+    font-size: 28px;
+
+}
+
+#introduction {
+
+    font-style: italic;
+
+
+}
+
+.links {
+
+    font-weight: bolder;
+
+}
+img {
+
+    border: black solid 3px;
+    padding: 3px;
+
+
+}
